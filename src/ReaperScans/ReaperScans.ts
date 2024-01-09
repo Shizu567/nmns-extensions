@@ -21,13 +21,13 @@ import {
 import { Parser } from './parser'
 import { Helper } from './helper'
 
-const REAPERSCANS_DOMAIN = 'https://reapercomics.com'
+const REAPERSCANS_DOMAIN = 'https://reaperscans.com'
 export const ReaperScansInfo: SourceInfo = {
     version: '4.0.0',
     name: 'ReaperScans',
     description: 'Reaperscans source for 0.8',
     author: 'NmN',
-    authorWebsite: 'http://github.com/pandeynmm',
+    authorWebsite: 'http://github.com/Shizu567',
     icon: 'icon.png',
     contentRating: ContentRating.EVERYONE,
     websiteBaseURL: REAPERSCANS_DOMAIN,
