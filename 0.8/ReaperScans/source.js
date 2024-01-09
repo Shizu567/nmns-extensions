@@ -464,13 +464,13 @@ exports.ReaperScans = exports.ReaperScansInfo = void 0;
 const types_1 = require("@paperback/types");
 const parser_1 = require("./parser");
 const helper_1 = require("./helper");
-const _DOMAIN = 'https://reapercomics.com';
+const _DOMAIN = 'https://reaperscans.com';
 exports.ReaperScansInfo = {
     version: '4.0.0',
     name: 'ReaperScans',
     description: 'Reaperscans source for 0.8',
     author: 'NmN',
-    authorWebsite: 'http://github.com/pandeynmm',
+    authorWebsite: 'http://github.com/Shizu567',
     icon: 'icon.png',
     contentRating: types_1.ContentRating.EVERYONE,
     websiteBaseURL: REAPERSCANS_DOMAIN,
