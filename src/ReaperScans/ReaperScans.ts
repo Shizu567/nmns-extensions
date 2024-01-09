@@ -24,7 +24,7 @@ import {
     getRowBool
 } from './settings'
 
-const REAPERSCANS_DOMAIN = 'https://reapercomics.com'
+const REAPERSCANS_DOMAIN = 'https://reaperscans.com'
 
 export const ReaperScansInfo: SourceInfo = {
     version: '3.0.15',
