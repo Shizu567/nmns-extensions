@@ -470,7 +470,7 @@ exports.ReaperScansInfo = {
     name: 'ReaperScans',
     description: 'Reaperscans source for 0.8',
     author: 'NmN',
-    authorWebsite: 'http://github.com/pandeynmm',
+    authorWebsite: 'http://github.com/Shizu567',
     icon: 'icon.png',
     contentRating: types_1.ContentRating.EVERYONE,
     websiteBaseURL: REAPERSCANS_DOMAIN,
